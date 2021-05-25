@@ -8,8 +8,8 @@
 The disclose.io Project exists to drive the accelerated adoption of vulnerability disclosure best practices including **bi-lateral safe harbor, readability for non-legal and non-native language audiences, and a recognizable mark of solidarity with the disclose.io movement.**  
 
 # The components
-- [The Terms](/https://github.com/disclose/dioterms) - A collection of boilerplate vulnerability disclosure policy templates for various geographic juridictions and industry verticals, including high-level generic and simplified term boilerplates.
-- [The List](https://github.com/disclose/diodb) - A community-powered list of every known VDP and public bug bounty program, along with it's safe harbor status.
+- [The Terms](https://github.com/disclose/dioterms) - A collection of boilerplate vulnerability disclosure policy templates for various geographic juridictions and industry verticals, including high-level generic and simplified term boilerplates.
+- [The List](https://github.com/disclose/diodb) - A community-powered list of every known VDP and public bug bounty program, along with its safe harbor status.
 - [The Seal](https://github.com/disclose/dioseal) - A recognizable mark to indicate safety for hackers and adoption of best practice to customers.
 - [Tools and Data](https://github.com/disclose/diodata) - Useful data and tools for researchers, program owners, and legal teams.
 
